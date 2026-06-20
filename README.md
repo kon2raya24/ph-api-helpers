@@ -23,3 +23,9 @@ MIT
 import { } from 'ph-api-helpers';
 // See API section for available functions
 ```
+
+
+## API
+
+See source code and JSDoc comments for full API documentation.
+All exported functions include TypeScript types.
