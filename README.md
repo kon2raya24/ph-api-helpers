@@ -15,3 +15,11 @@ npm install ph-api-helpers
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'ph-api-helpers';
+// See API section for available functions
+```
